@@ -1,4 +1,10 @@
 # allegro_5_billiard_game
+hello everyone 
+I am Mustafa Gülsoy. now, I am student on Çukurova Univesty 
+and this billiard game is our semester project
+if someone need to write allegro game, I load it to reach anybody
+
+I left my teammater's username below 
 We builed our game with functions, every function takes one mission.
 
 and here are the heart functions of the game:
